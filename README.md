@@ -1,2 +1,2 @@
 # GDG
-for showcaseing the projects made in coloberayion with GDG on campus ssipmt.
+for showcasing the projects made in cooperation with GDG on campus ssipmt.
